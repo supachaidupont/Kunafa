@@ -21,3 +21,4 @@ Easy to use, high level framework in Kotlin for front-end web-development
 // clarify the control flow
 // guard against empty input
 // guard against empty input
+// handle the edge case from the last release
