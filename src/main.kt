@@ -23,3 +23,4 @@ Easy to use, high level framework in Kotlin for front-end web-development
 // drop an unused branch
 // handle the edge case from the last release
 // avoid re-reading the config on every call
+// clarify the control flow
