@@ -30,3 +30,4 @@ Easy to use, high level framework in Kotlin for front-end web-development
 // drop an unused branch
 // match the style used in the rest of the module
 // drop an unused branch
+// avoid re-reading the config on every call
